@@ -1,0 +1,188 @@
+{
+  "count": 40,
+  "next": "https://swapi.co/api/planets/?page=3&search=a",
+  "previous": "https://swapi.co/api/planets/?page=1&search=a",
+  "results": [
+    {
+      "name": "Felucia",
+      "rotation_period": "34",
+      "orbital_period": "231",
+      "diameter": "9100",
+      "climate": "hot, humid",
+      "gravity": "0.75 standard",
+      "terrain": "fungus forests",
+      "surface_water": "unknown",
+      "population": "8500000",
+      "residents": [],
+      "films": [
+        "https://swapi.co/api/films/6/"
+      ],
+      "created": "2014-12-10T13:44:50.397000Z",
+      "edited": "2014-12-20T20:58:18.447000Z",
+      "url": "https://swapi.co/api/planets/17/"
+    },
+    {
+      "name": "Cato Neimoidia",
+      "rotation_period": "25",
+      "orbital_period": "278",
+      "diameter": "0",
+      "climate": "temperate, moist",
+      "gravity": "1 standard",
+      "terrain": "mountains, fields, forests, rock arches",
+      "surface_water": "unknown",
+      "population": "10000000",
+      "residents": [
+        "https://swapi.co/api/people/33/"
+      ],
+      "films": [
+        "https://swapi.co/api/films/6/"
+      ],
+      "created": "2014-12-10T13:46:28.704000Z",
+      "edited": "2014-12-20T20:58:18.449000Z",
+      "url": "https://swapi.co/api/planets/18/"
+    },
+    {
+      "name": "Saleucami",
+      "rotation_period": "26",
+      "orbital_period": "392",
+      "diameter": "14920",
+      "climate": "hot",
+      "gravity": "unknown",
+      "terrain": "caves, desert, mountains, volcanoes",
+      "surface_water": "unknown",
+      "population": "1400000000",
+      "residents": [],
+      "films": [
+        "https://swapi.co/api/films/6/"
+      ],
+      "created": "2014-12-10T13:47:46.874000Z",
+      "edited": "2014-12-20T20:58:18.450000Z",
+      "url": "https://swapi.co/api/planets/19/"
+    },
+    {
+      "name": "Eriadu",
+      "rotation_period": "24",
+      "orbital_period": "360",
+      "diameter": "13490",
+      "climate": "polluted",
+      "gravity": "1 standard",
+      "terrain": "cityscape",
+      "surface_water": "unknown",
+      "population": "22000000000",
+      "residents": [
+        "https://swapi.co/api/people/12/"
+      ],
+      "films": [],
+      "created": "2014-12-10T16:26:54.384000Z",
+      "edited": "2014-12-20T20:58:18.454000Z",
+      "url": "https://swapi.co/api/planets/21/"
+    },
+    {
+      "name": "Corellia",
+      "rotation_period": "25",
+      "orbital_period": "329",
+      "diameter": "11000",
+      "climate": "temperate",
+      "gravity": "1 standard",
+      "terrain": "plains, urban, hills, forests",
+      "surface_water": "70",
+      "population": "3000000000",
+      "residents": [
+        "https://swapi.co/api/people/14/",
+        "https://swapi.co/api/people/18/"
+      ],
+      "films": [],
+      "created": "2014-12-10T16:49:12.453000Z",
+      "edited": "2014-12-20T20:58:18.456000Z",
+      "url": "https://swapi.co/api/planets/22/"
+    },
+    {
+      "name": "Rodia",
+      "rotation_period": "29",
+      "orbital_period": "305",
+      "diameter": "7549",
+      "climate": "hot",
+      "gravity": "1 standard",
+      "terrain": "jungles, oceans, urban, swamps",
+      "surface_water": "60",
+      "population": "1300000000",
+      "residents": [
+        "https://swapi.co/api/people/15/"
+      ],
+      "films": [],
+      "created": "2014-12-10T17:03:28.110000Z",
+      "edited": "2014-12-20T20:58:18.458000Z",
+      "url": "https://swapi.co/api/planets/23/"
+    },
+    {
+      "name": "Nal Hutta",
+      "rotation_period": "87",
+      "orbital_period": "413",
+      "diameter": "12150",
+      "climate": "temperate",
+      "gravity": "1 standard",
+      "terrain": "urban, oceans, swamps, bogs",
+      "surface_water": "unknown",
+      "population": "7000000000",
+      "residents": [
+        "https://swapi.co/api/people/16/"
+      ],
+      "films": [],
+      "created": "2014-12-10T17:11:29.452000Z",
+      "edited": "2014-12-20T20:58:18.460000Z",
+      "url": "https://swapi.co/api/planets/24/"
+    },
+    {
+      "name": "Dantooine",
+      "rotation_period": "25",
+      "orbital_period": "378",
+      "diameter": "9830",
+      "climate": "temperate",
+      "gravity": "1 standard",
+      "terrain": "oceans, savannas, mountains, grasslands",
+      "surface_water": "unknown",
+      "population": "1000",
+      "residents": [],
+      "films": [],
+      "created": "2014-12-10T17:23:29.896000Z",
+      "edited": "2014-12-20T20:58:18.461000Z",
+      "url": "https://swapi.co/api/planets/25/"
+    },
+    {
+      "name": "Ord Mantell",
+      "rotation_period": "26",
+      "orbital_period": "334",
+      "diameter": "14050",
+      "climate": "temperate",
+      "gravity": "1 standard",
+      "terrain": "plains, seas, mesas",
+      "surface_water": "10",
+      "population": "4000000000",
+      "residents": [],
+      "films": [
+        "https://swapi.co/api/films/2/"
+      ],
+      "created": "2014-12-15T12:23:41.661000Z",
+      "edited": "2014-12-20T20:58:18.464000Z",
+      "url": "https://swapi.co/api/planets/27/"
+    },
+    {
+      "name": "Trandosha",
+      "rotation_period": "25",
+      "orbital_period": "371",
+      "diameter": "0",
+      "climate": "arid",
+      "gravity": "0.62 standard",
+      "terrain": "mountains, seas, grasslands, deserts",
+      "surface_water": "unknown",
+      "population": "42000000",
+      "residents": [
+        "https://swapi.co/api/people/24/"
+      ],
+      "films": [],
+      "created": "2014-12-15T12:53:47.695000Z",
+      "edited": "2014-12-20T20:58:18.468000Z",
+      "url": "https://swapi.co/api/planets/29/"
+    }
+  ]
+}
